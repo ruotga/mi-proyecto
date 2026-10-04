@@ -1,2 +1,2 @@
 # Proyecto
-desde p2
+desde github
